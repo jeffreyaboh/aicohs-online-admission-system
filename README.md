@@ -20,11 +20,11 @@
 > Users can login/sign up at: https://demo.jeffreyaboh.co.uk/oas/ 
 
 Test Credentials:
-User ID: AICOHS00001
+> User ID: AICOHS00001 |
 Password: ReRCGiq0
 
 > Admin can login at: https://demo.jeffreyaboh.co.uk/oas/adminlogin.php
 
 Test Credentials:
-Admin ID: admin
+> Admin ID: admin |
 Password: admin
